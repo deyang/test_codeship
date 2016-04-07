@@ -1,0 +1,3 @@
+import boto
+
+print "success!"
